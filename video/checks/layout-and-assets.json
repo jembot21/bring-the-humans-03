@@ -1,0 +1,35 @@
+{
+  "master_sha256": "de1667ef2fb8b983dcfbb4fd06f74670da20fa81d258872a1fe85877e5d6f0cd",
+  "production_source_hashes_match": true,
+  "fresh_press_asset_hashes_match_manifest": true,
+  "all_900_frame_records_checked": true,
+  "text_safe_bounds": [
+    120,
+    269,
+    888,
+    1248
+  ],
+  "badge_clear_space_px": 24,
+  "all_subtitle_cues_match_storyboard_timeline": true,
+  "badge_native_frames": [
+    0,
+    809
+  ],
+  "end_card_native_frames": [
+    810,
+    899
+  ],
+  "end_card_modified_only_inside_code_field": true,
+  "referral_code": "8vr38xr3",
+  "full_code_present_from_frame": 838,
+  "required_sample_frames_reproduced": [
+    0,
+    15,
+    150,
+    360,
+    600,
+    750,
+    870,
+    899
+  ]
+}
