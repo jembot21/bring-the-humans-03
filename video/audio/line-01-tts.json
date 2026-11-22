@@ -1,0 +1,9 @@
+{
+  "stdout": {
+    "ok": true,
+    "bytes": 95175,
+    "voice": "avocado_v2:MAI_03"
+  },
+  "stderr": "Using TTS voice \"avocado_v2:MAI_03\" for requested ID \"Musing Mirror\".",
+  "note": "Service returned a valid PCM WAV after a prepended ID3 metadata tag. The original request bytes are retained in raw/line-01.bin; only the metadata prefix was removed for line-01.wav."
+}

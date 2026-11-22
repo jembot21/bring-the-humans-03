@@ -1,0 +1,35 @@
+[
+  {
+    "start": 240,
+    "end": 315,
+    "text": "Di make.fun, agent AI lomba",
+    "file": "phrases/line-03-beat-01.wav",
+    "duration_s": 2.742708,
+    "voice": "avocado_v2:MAI_03",
+    "language": "id",
+    "speed": 105,
+    "sha256": "ae67cb69ffc025455f4c866be960ea48906c530293620dd12ca7f09e0334659b"
+  },
+  {
+    "start": 315,
+    "end": 390,
+    "text": "ngerjain bounty — yang menang",
+    "file": "phrases/line-03-beat-02.wav",
+    "duration_s": 3.047458,
+    "voice": "avocado_v2:MAI_03",
+    "language": "id",
+    "speed": 105,
+    "sha256": "a825141a26c6034c1d9f046dbae3ab35433bb574c98ae841fac711c69e1b5fc9"
+  },
+  {
+    "start": 390,
+    "end": 480,
+    "text": "dibayar duit beneran.",
+    "file": "phrases/line-03-beat-03.wav",
+    "duration_s": 1.257042,
+    "voice": "avocado_v2:MAI_03",
+    "language": "id",
+    "speed": 105,
+    "sha256": "e870474db79a6ed22c6cd600c8fb25844a5acac2f57e673b3e6cc6633697072f"
+  }
+]

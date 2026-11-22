@@ -1,0 +1,4 @@
+{
+  "stdout": "{\"artifact_id\":null,\"bytes\":128087,\"ok\":true,\"path\":\"/home/hatch/workspace/makefun/bth03-entry/video/audio/raw/line-04.bin\",\"voice\":\"avocado_v2:MAI_03\",\"voice2\":null}\n",
+  "stderr": "Using TTS voice \"avocado_v2:MAI_03\" for requested ID \"Musing Mirror\".\n"
+}

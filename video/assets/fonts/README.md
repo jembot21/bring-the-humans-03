@@ -13,3 +13,9 @@ requires runtime font downloads.
 Noto fonts use the SIL Open Font License; see `Noto-LICENSE.txt` copied from
 the installed package's copyright file. DejaVu's licence is included in
 `DejaVu-LICENSE.txt`. Font files are unmodified.
+
+The referral field uses the unmodified **JetBrains Mono Bold 2.304**, downloaded
+from JetBrains' tagged official repository in session 2. Its SIL Open Font
+License is bundled as `JetBrainsMono-OFL.txt`; the exact source URLs, byte
+counts and SHA-256 hashes are recorded in `JetBrainsMono-source.json`.
+The referral code is rendered at the manifest's 62 px, weight 700.

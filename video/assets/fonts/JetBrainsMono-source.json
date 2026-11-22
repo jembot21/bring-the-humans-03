@@ -1,0 +1,14 @@
+[
+  {
+    "file": "JetBrainsMono-Bold.ttf",
+    "url": "https://raw.githubusercontent.com/JetBrains/JetBrainsMono/v2.304/fonts/ttf/JetBrainsMono-Bold.ttf",
+    "bytes": 277828,
+    "sha256": "5590990c82e097397517f275f430af4546e1c45cff408bde4255dad142479dcb"
+  },
+  {
+    "file": "JetBrainsMono-OFL.txt",
+    "url": "https://raw.githubusercontent.com/JetBrains/JetBrainsMono/v2.304/OFL.txt",
+    "bytes": 4399,
+    "sha256": "30f0c136e3c88e422d0791acd97238870f9054a9729bc34cf2ff0d4ed8cac4ad"
+  }
+]
