@@ -1,0 +1,19 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 200 OK
+Date: Sun, 22 Nov 2026 02:38:24 GMT
+Content-Type: image/png
+alt-svc: h3=":443"; ma=86400
+CF-RAY: a5e48eca997be66d-DEN
+Accept-Ranges: bytes
+Cache-Control: max-age=14400
+referrer-policy: strict-origin-when-cross-origin
+x-content-type-options: nosniff
+x-envoy-upstream-service-time: 1
+server: cloudflare
+Vary: accept-encoding
+last-modified: Sun, 22 Nov 2026 02:38:24 GMT
+cf-cache-status: MISS
+Strict-Transport-Security: max-age=15552000
+Content-Length: 79296
+

@@ -1,0 +1,1960 @@
+{
+  "scope": "Session 1 samples only; scenes 1 and 2; no audio or full video",
+  "manifest_sha256": "5e89d2492d0baa37e8528a16e7deed544e81128c275e489f307c6c5ca34dbc5f",
+  "guide_sha256": "84448266bd35b740dd947319368cee54a00cf2aaea7012948d542032018c31c3",
+  "renderer_sha256": "171be70ddce9fbfceb7ea7f7c1b924631fa9e6634baeaf3e4540b71f7edef9fb",
+  "frames": [
+    {
+      "frame": 0,
+      "time_s": 0.0,
+      "scene": 1,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 0,
+        "end": 90,
+        "text": "AI gue baru saja menang seratus dolar!",
+        "lines": [
+          "AI gue baru saja menang",
+          "seratus dolar!"
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "hook": "AI GUE BARU SAJA MENANG $100.",
+        "counter": {
+          "display": "$000.00",
+          "settles_at_s": 1.55,
+          "columns": [
+            {
+              "character": "$",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": ".",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            }
+          ]
+        }
+      },
+      "objects": [
+        {
+          "name": "AI GUE BARU",
+          "bounds": [
+            144,
+            450,
+            709,
+            524
+          ],
+          "essential": true
+        },
+        {
+          "name": "SAJA MENANG",
+          "bounds": [
+            144,
+            557,
+            779,
+            653
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100.",
+          "bounds": [
+            138,
+            671,
+            564,
+            818
+          ],
+          "essential": true
+        },
+        {
+          "name": "counter panel",
+          "bounds": [
+            144,
+            852,
+            864,
+            1058
+          ],
+          "essential": true
+        },
+        {
+          "name": "HADIAH BOUNTY",
+          "bounds": [
+            184,
+            871,
+            398,
+            889
+          ],
+          "essential": true
+        },
+        {
+          "name": "money counter",
+          "bounds": [
+            290,
+            923,
+            717,
+            1037
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            250,
+            1120,
+            757,
+            1164
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 2",
+          "bounds": [
+            366,
+            1174,
+            643,
+            1207
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0000.png",
+      "sha256": "19588cbd48d91369e18a9d781a8bb8578ac0b663c381a78eaf26bb2f04a14875"
+    },
+    {
+      "frame": 15,
+      "time_s": 0.5,
+      "scene": 1,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 0,
+        "end": 90,
+        "text": "AI gue baru saja menang seratus dolar!",
+        "lines": [
+          "AI gue baru saja menang",
+          "seratus dolar!"
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "hook": "AI GUE BARU SAJA MENANG $100.",
+        "counter": {
+          "display": "rolling",
+          "settles_at_s": 1.55,
+          "columns": [
+            {
+              "character": "$",
+              "offset": 0
+            },
+            {
+              "target": "1",
+              "position": -3.97385,
+              "offset": 3
+            },
+            {
+              "target": "0",
+              "position": -5.90645,
+              "offset": 11
+            },
+            {
+              "target": "0",
+              "position": -6.83905,
+              "offset": 18
+            },
+            {
+              "character": ".",
+              "offset": 0
+            },
+            {
+              "target": "0",
+              "position": -7.77164,
+              "offset": 26
+            },
+            {
+              "target": "0",
+              "position": -8.70424,
+              "offset": 34
+            }
+          ]
+        }
+      },
+      "objects": [
+        {
+          "name": "AI GUE BARU",
+          "bounds": [
+            144,
+            450,
+            709,
+            524
+          ],
+          "essential": true
+        },
+        {
+          "name": "SAJA MENANG",
+          "bounds": [
+            144,
+            557,
+            779,
+            653
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100.",
+          "bounds": [
+            138,
+            671,
+            564,
+            818
+          ],
+          "essential": true
+        },
+        {
+          "name": "counter panel",
+          "bounds": [
+            144,
+            852,
+            864,
+            1058
+          ],
+          "essential": true
+        },
+        {
+          "name": "HADIAH BOUNTY",
+          "bounds": [
+            184,
+            871,
+            398,
+            889
+          ],
+          "essential": true
+        },
+        {
+          "name": "money counter",
+          "bounds": [
+            290,
+            923,
+            717,
+            1037
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            250,
+            1120,
+            757,
+            1164
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 2",
+          "bounds": [
+            366,
+            1174,
+            643,
+            1207
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0015.png",
+      "sha256": "5bae063eace4dff9bd293fd96103f848e61629118e9c93c8d8f88a5981934d6a"
+    },
+    {
+      "frame": 30,
+      "time_s": 1.0,
+      "scene": 1,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 0,
+        "end": 90,
+        "text": "AI gue baru saja menang seratus dolar!",
+        "lines": [
+          "AI gue baru saja menang",
+          "seratus dolar!"
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "hook": "AI GUE BARU SAJA MENANG $100.",
+        "counter": {
+          "display": "rolling",
+          "settles_at_s": 1.55,
+          "columns": [
+            {
+              "character": "$",
+              "offset": 0
+            },
+            {
+              "target": "1",
+              "position": 0.28515,
+              "offset": 33
+            },
+            {
+              "target": "0",
+              "position": -0.84888,
+              "offset": 17
+            },
+            {
+              "target": "0",
+              "position": -0.98291,
+              "offset": 2
+            },
+            {
+              "character": ".",
+              "offset": 0
+            },
+            {
+              "target": "0",
+              "position": -1.11695,
+              "offset": 101
+            },
+            {
+              "target": "0",
+              "position": -1.25098,
+              "offset": 85
+            }
+          ]
+        }
+      },
+      "objects": [
+        {
+          "name": "AI GUE BARU",
+          "bounds": [
+            144,
+            450,
+            709,
+            524
+          ],
+          "essential": true
+        },
+        {
+          "name": "SAJA MENANG",
+          "bounds": [
+            144,
+            557,
+            779,
+            653
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100.",
+          "bounds": [
+            138,
+            671,
+            564,
+            818
+          ],
+          "essential": true
+        },
+        {
+          "name": "counter panel",
+          "bounds": [
+            144,
+            852,
+            864,
+            1058
+          ],
+          "essential": true
+        },
+        {
+          "name": "HADIAH BOUNTY",
+          "bounds": [
+            184,
+            871,
+            398,
+            889
+          ],
+          "essential": true
+        },
+        {
+          "name": "money counter",
+          "bounds": [
+            290,
+            923,
+            717,
+            1037
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            250,
+            1120,
+            757,
+            1164
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 2",
+          "bounds": [
+            366,
+            1174,
+            643,
+            1207
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0030.png",
+      "sha256": "28f2805270b94f668efd5941d1619b2f158fb1458cecb84a45a53f4b10fcceba"
+    },
+    {
+      "frame": 47,
+      "time_s": 1.566667,
+      "scene": 1,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 0,
+        "end": 90,
+        "text": "AI gue baru saja menang seratus dolar!",
+        "lines": [
+          "AI gue baru saja menang",
+          "seratus dolar!"
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "hook": "AI GUE BARU SAJA MENANG $100.",
+        "counter": {
+          "display": "$100.00",
+          "settles_at_s": 1.55,
+          "columns": [
+            {
+              "character": "$",
+              "offset": 0
+            },
+            {
+              "character": "1",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": ".",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            }
+          ]
+        }
+      },
+      "objects": [
+        {
+          "name": "AI GUE BARU",
+          "bounds": [
+            144,
+            450,
+            709,
+            524
+          ],
+          "essential": true
+        },
+        {
+          "name": "SAJA MENANG",
+          "bounds": [
+            144,
+            557,
+            779,
+            653
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100.",
+          "bounds": [
+            138,
+            671,
+            564,
+            818
+          ],
+          "essential": true
+        },
+        {
+          "name": "counter panel",
+          "bounds": [
+            144,
+            852,
+            864,
+            1058
+          ],
+          "essential": true
+        },
+        {
+          "name": "HADIAH BOUNTY",
+          "bounds": [
+            184,
+            871,
+            398,
+            889
+          ],
+          "essential": true
+        },
+        {
+          "name": "money counter",
+          "bounds": [
+            290,
+            923,
+            717,
+            1037
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            250,
+            1120,
+            757,
+            1164
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 2",
+          "bounds": [
+            366,
+            1174,
+            643,
+            1207
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0047.png",
+      "sha256": "74731fd3ee0cf16e06ae40ad10976addb352fd2cb93d7cffa91df300d638cf42"
+    },
+    {
+      "frame": 59,
+      "time_s": 1.966667,
+      "scene": 1,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 0,
+        "end": 90,
+        "text": "AI gue baru saja menang seratus dolar!",
+        "lines": [
+          "AI gue baru saja menang",
+          "seratus dolar!"
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "hook": "AI GUE BARU SAJA MENANG $100.",
+        "counter": {
+          "display": "$100.00",
+          "settles_at_s": 1.55,
+          "columns": [
+            {
+              "character": "$",
+              "offset": 0
+            },
+            {
+              "character": "1",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": ".",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            },
+            {
+              "character": "0",
+              "offset": 0
+            }
+          ]
+        }
+      },
+      "objects": [
+        {
+          "name": "AI GUE BARU",
+          "bounds": [
+            144,
+            450,
+            709,
+            524
+          ],
+          "essential": true
+        },
+        {
+          "name": "SAJA MENANG",
+          "bounds": [
+            144,
+            557,
+            779,
+            653
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100.",
+          "bounds": [
+            138,
+            671,
+            564,
+            818
+          ],
+          "essential": true
+        },
+        {
+          "name": "counter panel",
+          "bounds": [
+            144,
+            852,
+            864,
+            1058
+          ],
+          "essential": true
+        },
+        {
+          "name": "HADIAH BOUNTY",
+          "bounds": [
+            184,
+            871,
+            398,
+            889
+          ],
+          "essential": true
+        },
+        {
+          "name": "money counter",
+          "bounds": [
+            290,
+            923,
+            717,
+            1037
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            250,
+            1120,
+            757,
+            1164
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 2",
+          "bounds": [
+            366,
+            1174,
+            643,
+            1207
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0059.png",
+      "sha256": "ce478aab7f22699f5f9ea59c8d2b9fe003b89b0f8180874ca2fbbea19d1436e6"
+    },
+    {
+      "frame": 60,
+      "time_s": 2.0,
+      "scene": 2,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 0,
+        "end": 90,
+        "text": "AI gue baru saja menang seratus dolar!",
+        "lines": [
+          "AI gue baru saja menang",
+          "seratus dolar!"
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "mascot_source": "ghost-laptop-recording.png",
+        "mascot_xy": [
+          144,
+          632
+        ],
+        "mascot_size": [
+          530,
+          436
+        ],
+        "bob_px": 0,
+        "submission_progress": 0.0,
+        "submission_complete": false
+      },
+      "objects": [
+        {
+          "name": "KENALIN,",
+          "bounds": [
+            144,
+            449,
+            534,
+            528
+          ],
+          "essential": true
+        },
+        {
+          "name": "AGENT AI GUE.",
+          "bounds": [
+            144,
+            550,
+            691,
+            614
+          ],
+          "essential": true
+        },
+        {
+          "name": "official mascot and laptop",
+          "bounds": [
+            144,
+            632,
+            674,
+            1068
+          ],
+          "essential": false
+        },
+        {
+          "name": "bounty submission card",
+          "bounds": [
+            665,
+            686,
+            864,
+            914
+          ],
+          "essential": true
+        },
+        {
+          "name": "BOUNTY",
+          "bounds": [
+            682,
+            707,
+            784,
+            724
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100",
+          "bounds": [
+            682,
+            747,
+            769,
+            779
+          ],
+          "essential": true
+        },
+        {
+          "name": "SUBMIT",
+          "bounds": [
+            682,
+            860,
+            760,
+            874
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            250,
+            1120,
+            757,
+            1164
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 2",
+          "bounds": [
+            366,
+            1174,
+            643,
+            1207
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0060.png",
+      "sha256": "b63a43c3637ef3a3be4009bc455b9c17df51dba4849a990c4ffae02f814e0b9e"
+    },
+    {
+      "frame": 89,
+      "time_s": 2.966667,
+      "scene": 2,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 0,
+        "end": 90,
+        "text": "AI gue baru saja menang seratus dolar!",
+        "lines": [
+          "AI gue baru saja menang",
+          "seratus dolar!"
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "mascot_source": "ghost-laptop-recording.png",
+        "mascot_xy": [
+          144,
+          634
+        ],
+        "mascot_size": [
+          530,
+          436
+        ],
+        "bob_px": 2,
+        "submission_progress": 0.1061,
+        "submission_complete": false
+      },
+      "objects": [
+        {
+          "name": "KENALIN,",
+          "bounds": [
+            144,
+            449,
+            534,
+            528
+          ],
+          "essential": true
+        },
+        {
+          "name": "AGENT AI GUE.",
+          "bounds": [
+            144,
+            550,
+            691,
+            614
+          ],
+          "essential": true
+        },
+        {
+          "name": "official mascot and laptop",
+          "bounds": [
+            144,
+            634,
+            674,
+            1070
+          ],
+          "essential": false
+        },
+        {
+          "name": "bounty submission card",
+          "bounds": [
+            665,
+            686,
+            864,
+            914
+          ],
+          "essential": true
+        },
+        {
+          "name": "BOUNTY",
+          "bounds": [
+            682,
+            707,
+            784,
+            724
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100",
+          "bounds": [
+            682,
+            747,
+            769,
+            779
+          ],
+          "essential": true
+        },
+        {
+          "name": "SUBMIT",
+          "bounds": [
+            682,
+            860,
+            760,
+            874
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            250,
+            1120,
+            757,
+            1164
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 2",
+          "bounds": [
+            366,
+            1174,
+            643,
+            1207
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0089.png",
+      "sha256": "2d03afc0738831e3fbe2fabf77ecf6d41efec38461bdf87aba52a1858677ca09"
+    },
+    {
+      "frame": 90,
+      "time_s": 3.0,
+      "scene": 2,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 90,
+        "end": 165,
+        "text": "Kenalin, ini agent AI gue.",
+        "lines": [
+          "Kenalin, ini agent AI gue."
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "mascot_source": "ghost-laptop-recording.png",
+        "mascot_xy": [
+          144,
+          634
+        ],
+        "mascot_size": [
+          530,
+          436
+        ],
+        "bob_px": 2,
+        "submission_progress": 0.1136,
+        "submission_complete": false
+      },
+      "objects": [
+        {
+          "name": "KENALIN,",
+          "bounds": [
+            144,
+            449,
+            534,
+            528
+          ],
+          "essential": true
+        },
+        {
+          "name": "AGENT AI GUE.",
+          "bounds": [
+            144,
+            550,
+            691,
+            614
+          ],
+          "essential": true
+        },
+        {
+          "name": "official mascot and laptop",
+          "bounds": [
+            144,
+            634,
+            674,
+            1070
+          ],
+          "essential": false
+        },
+        {
+          "name": "bounty submission card",
+          "bounds": [
+            665,
+            686,
+            864,
+            914
+          ],
+          "essential": true
+        },
+        {
+          "name": "BOUNTY",
+          "bounds": [
+            682,
+            707,
+            784,
+            724
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100",
+          "bounds": [
+            682,
+            747,
+            769,
+            779
+          ],
+          "essential": true
+        },
+        {
+          "name": "SUBMIT",
+          "bounds": [
+            682,
+            860,
+            760,
+            874
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            252,
+            1147,
+            755,
+            1191
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0090.png",
+      "sha256": "f89905490e5cae10b006603ebc016154cc4819dc576afa1079a1db4cc6a7ece1"
+    },
+    {
+      "frame": 164,
+      "time_s": 5.466667,
+      "scene": 2,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 90,
+        "end": 165,
+        "text": "Kenalin, ini agent AI gue.",
+        "lines": [
+          "Kenalin, ini agent AI gue."
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "mascot_source": "ghost-laptop-recording.png",
+        "mascot_xy": [
+          144,
+          634
+        ],
+        "mascot_size": [
+          530,
+          436
+        ],
+        "bob_px": 2,
+        "submission_progress": 0.6742,
+        "submission_complete": false
+      },
+      "objects": [
+        {
+          "name": "KENALIN,",
+          "bounds": [
+            144,
+            449,
+            534,
+            528
+          ],
+          "essential": true
+        },
+        {
+          "name": "AGENT AI GUE.",
+          "bounds": [
+            144,
+            550,
+            691,
+            614
+          ],
+          "essential": true
+        },
+        {
+          "name": "official mascot and laptop",
+          "bounds": [
+            144,
+            634,
+            674,
+            1070
+          ],
+          "essential": false
+        },
+        {
+          "name": "bounty submission card",
+          "bounds": [
+            665,
+            686,
+            864,
+            914
+          ],
+          "essential": true
+        },
+        {
+          "name": "BOUNTY",
+          "bounds": [
+            682,
+            707,
+            784,
+            724
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100",
+          "bounds": [
+            682,
+            747,
+            769,
+            779
+          ],
+          "essential": true
+        },
+        {
+          "name": "SUBMIT",
+          "bounds": [
+            682,
+            860,
+            760,
+            874
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            252,
+            1147,
+            755,
+            1191
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0164.png",
+      "sha256": "2c76000cd7f16cebdc43d42b62a8dfb6e85cdbc187f334d63e37bc09c4ba7b31"
+    },
+    {
+      "frame": 165,
+      "time_s": 5.5,
+      "scene": 2,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 165,
+        "end": 240,
+        "text": "Kerjaannya? Ikut lomba.",
+        "lines": [
+          "Kerjaannya? Ikut lomba."
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "mascot_source": "ghost-laptop-recording.png",
+        "mascot_xy": [
+          144,
+          634
+        ],
+        "mascot_size": [
+          530,
+          436
+        ],
+        "bob_px": 2,
+        "submission_progress": 0.6818,
+        "submission_complete": false
+      },
+      "objects": [
+        {
+          "name": "KENALIN,",
+          "bounds": [
+            144,
+            449,
+            534,
+            528
+          ],
+          "essential": true
+        },
+        {
+          "name": "AGENT AI GUE.",
+          "bounds": [
+            144,
+            550,
+            691,
+            614
+          ],
+          "essential": true
+        },
+        {
+          "name": "official mascot and laptop",
+          "bounds": [
+            144,
+            634,
+            674,
+            1070
+          ],
+          "essential": false
+        },
+        {
+          "name": "bounty submission card",
+          "bounds": [
+            665,
+            686,
+            864,
+            914
+          ],
+          "essential": true
+        },
+        {
+          "name": "BOUNTY",
+          "bounds": [
+            682,
+            707,
+            784,
+            724
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100",
+          "bounds": [
+            682,
+            747,
+            769,
+            779
+          ],
+          "essential": true
+        },
+        {
+          "name": "SUBMIT",
+          "bounds": [
+            682,
+            860,
+            760,
+            874
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            260,
+            1147,
+            747,
+            1191
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0165.png",
+      "sha256": "ea6e58511333ab491e53e37caa0dbfd84a72cb4e2791349f0043c40191f79adb"
+    },
+    {
+      "frame": 210,
+      "time_s": 7.0,
+      "scene": 2,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 165,
+        "end": 240,
+        "text": "Kerjaannya? Ikut lomba.",
+        "lines": [
+          "Kerjaannya? Ikut lomba."
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "mascot_source": "ghost-laptop-recording.png",
+        "mascot_xy": [
+          144,
+          630
+        ],
+        "mascot_size": [
+          530,
+          436
+        ],
+        "bob_px": -2,
+        "submission_progress": 1.0,
+        "submission_complete": true
+      },
+      "objects": [
+        {
+          "name": "KENALIN,",
+          "bounds": [
+            144,
+            449,
+            534,
+            528
+          ],
+          "essential": true
+        },
+        {
+          "name": "AGENT AI GUE.",
+          "bounds": [
+            144,
+            550,
+            691,
+            614
+          ],
+          "essential": true
+        },
+        {
+          "name": "official mascot and laptop",
+          "bounds": [
+            144,
+            630,
+            674,
+            1066
+          ],
+          "essential": false
+        },
+        {
+          "name": "bounty submission card",
+          "bounds": [
+            665,
+            686,
+            864,
+            914
+          ],
+          "essential": true
+        },
+        {
+          "name": "BOUNTY",
+          "bounds": [
+            682,
+            707,
+            784,
+            724
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100",
+          "bounds": [
+            682,
+            747,
+            769,
+            779
+          ],
+          "essential": true
+        },
+        {
+          "name": "TERKIRIM",
+          "bounds": [
+            682,
+            860,
+            779,
+            874
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            260,
+            1147,
+            747,
+            1191
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0210.png",
+      "sha256": "6fd393503800372ecaed9be8a90a368ef2169cb7158b71ba92243f7ee00b42eb"
+    },
+    {
+      "frame": 239,
+      "time_s": 7.966667,
+      "scene": 2,
+      "size": [
+        1080,
+        1920
+      ],
+      "safe_text_bounds": [
+        120,
+        269,
+        888,
+        1248
+      ],
+      "badge_bounds": [
+        120,
+        272,
+        450,
+        400
+      ],
+      "badge_exclusion": [
+        96,
+        248,
+        474,
+        424
+      ],
+      "badge_native_composite": true,
+      "subtitle": {
+        "start": 165,
+        "end": 240,
+        "text": "Kerjaannya? Ikut lomba.",
+        "lines": [
+          "Kerjaannya? Ikut lomba."
+        ],
+        "panel": [
+          144,
+          1106,
+          864,
+          1232
+        ]
+      },
+      "state": {
+        "mascot_source": "ghost-laptop-recording.png",
+        "mascot_xy": [
+          144,
+          632
+        ],
+        "mascot_size": [
+          530,
+          436
+        ],
+        "bob_px": 0,
+        "submission_progress": 1.0,
+        "submission_complete": true
+      },
+      "objects": [
+        {
+          "name": "KENALIN,",
+          "bounds": [
+            144,
+            449,
+            534,
+            528
+          ],
+          "essential": true
+        },
+        {
+          "name": "AGENT AI GUE.",
+          "bounds": [
+            144,
+            550,
+            691,
+            614
+          ],
+          "essential": true
+        },
+        {
+          "name": "official mascot and laptop",
+          "bounds": [
+            144,
+            632,
+            674,
+            1068
+          ],
+          "essential": false
+        },
+        {
+          "name": "bounty submission card",
+          "bounds": [
+            665,
+            686,
+            864,
+            914
+          ],
+          "essential": true
+        },
+        {
+          "name": "BOUNTY",
+          "bounds": [
+            682,
+            707,
+            784,
+            724
+          ],
+          "essential": true
+        },
+        {
+          "name": "$100",
+          "bounds": [
+            682,
+            747,
+            769,
+            779
+          ],
+          "essential": true
+        },
+        {
+          "name": "TERKIRIM",
+          "bounds": [
+            682,
+            860,
+            779,
+            874
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle panel",
+          "bounds": [
+            144,
+            1106,
+            864,
+            1232
+          ],
+          "essential": true
+        },
+        {
+          "name": "subtitle line 1",
+          "bounds": [
+            260,
+            1147,
+            747,
+            1191
+          ],
+          "essential": true
+        }
+      ],
+      "file": "frame-0239.png",
+      "sha256": "41a66760011548f3d4222b14128af8365423962fc5420f841db736d42ea298bb"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "sample_count": 12,
+  "badge_opaque_pixels_exact": true,
+  "badge_alpha_bounds": [
+    120,
+    272,
+    450,
+    400
+  ],
+  "safe_text_bounds": [
+    120,
+    269,
+    888,
+    1248
+  ],
+  "badge_clearance_px": 24,
+  "subtitle_boundaries_checked": [
+    0,
+    60,
+    89,
+    90,
+    164,
+    165,
+    239
+  ],
+  "hook_visible_and_stable_from_frame_0": true,
+  "counter_motion_and_settled_hold_checked": true
+}

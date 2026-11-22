@@ -1,0 +1,18 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 200 OK
+Date: Sun, 22 Nov 2026 02:37:26 GMT
+Content-Type: application/json; charset=utf-8
+alt-svc: h3=":443"; ma=86400
+CF-RAY: a5e48d63392c446c-LAX
+Cache-Control: max-age=14400
+referrer-policy: strict-origin-when-cross-origin
+vary: Accept-Encoding
+x-content-type-options: nosniff
+x-envoy-upstream-service-time: 4
+server: cloudflare
+Strict-Transport-Security: max-age=15552000
+last-modified: Sun, 22 Nov 2026 02:37:26 GMT
+cf-cache-status: MISS
+Transfer-Encoding: chunked
+

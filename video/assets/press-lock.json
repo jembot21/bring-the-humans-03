@@ -1,0 +1,143 @@
+{
+  "manifest_file": "manifest.json",
+  "manifest_sha256": "5e89d2492d0baa37e8528a16e7deed544e81128c275e489f307c6c5ca34dbc5f",
+  "guide_file": "llms.txt",
+  "guide_sha256": "84448266bd35b740dd947319368cee54a00cf2aaea7012948d542032018c31c3",
+  "edition": "2026-11-21",
+  "badge": {
+    "overlay": "https://make.fun/press/brand-badge/9x16/makefun-badge-9x16.png",
+    "frame": {
+      "width": 1080,
+      "height": 1920
+    },
+    "badge": {
+      "x": 120,
+      "y": 272,
+      "width": 330,
+      "height": 128
+    },
+    "from_s": 0,
+    "until": "the referral end card comes in (referral_card), 2.5 s before the clip ends, or the clip's end when the card follows it",
+    "platforms": [
+      "TikTok",
+      "Instagram Reels",
+      "YouTube Shorts",
+      "X"
+    ],
+    "safe_zone": {
+      "name": "safe zone of TikTok In-Feed and Instagram Reels together",
+      "box": {
+        "x": 120,
+        "y": 269,
+        "width": 840,
+        "height": 979
+      },
+      "clear_of": "the top bar (Following, For You, LIVE and search), the name, caption and sound at the bottom, the side margins, and the like, comment and share column on the right",
+      "sources": [
+        "https://ads.tiktok.com/help/article/tiktok-auction-in-feed-ads",
+        "https://reviral.ai/tools/tiktok-safe-zone"
+      ],
+      "read": "2026-11-21"
+    }
+  },
+  "badge_clear_space_px": 24,
+  "end_card_field": {
+    "card": "https://make.fun/press/referral-card/9x16/makefun-card-9x16-transparent.webm",
+    "frame": {
+      "width": 1080,
+      "height": 1920
+    },
+    "rest_s": 1.433,
+    "field": {
+      "x": 153,
+      "y": 1174,
+      "width": 774,
+      "height": 194
+    },
+    "caret": {
+      "x": 210,
+      "y": 1232,
+      "width": 5,
+      "height": 78
+    },
+    "copy_button": {
+      "x": 770,
+      "y": 1211,
+      "width": 120,
+      "height": 120
+    },
+    "code": {
+      "box": {
+        "x": 210,
+        "y": 1232,
+        "width": 510,
+        "height": 78
+      },
+      "centre_y": 1271,
+      "cover": {
+        "x": 208,
+        "y": 1230,
+        "width": 9,
+        "height": 82
+      },
+      "font": "JetBrains Mono",
+      "font_weight": 700,
+      "fallback_font": "Inter",
+      "font_size_px": 62,
+      "colour": "#191419",
+      "cover_with": "#ffffff"
+    }
+  },
+  "assets": {
+    "badge": {
+      "local_file": "makefun-badge-9x16.png",
+      "manifest_entry": {
+        "path": "brand-badge/9x16/makefun-badge-9x16.png",
+        "url": "https://make.fun/press/brand-badge/9x16/makefun-badge-9x16.png",
+        "title": "Brand badge 9:16 overlay",
+        "what": "A transparent 1080 by 1920 frame with the badge in its place, top left at x 120, y 272, inside the safe zone of TikTok In-Feed and Instagram Reels together.",
+        "use": "Lay it over a vertical video (TikTok, Reels, Shorts, X) from its first frame until the referral end card comes in, at 100%, not scaled or moved.",
+        "aspect": "9:16",
+        "mime": "image/png",
+        "width": 1080,
+        "height": 1920,
+        "alpha": true,
+        "bytes": 22841,
+        "sha256": "5633c94aeb8773339950f41b9299586f0b5a13594b3076a0c50e8ab0541e9772"
+      }
+    },
+    "end_card": {
+      "local_file": "makefun-card-9x16.png",
+      "manifest_entry": {
+        "path": "referral-card/9x16/makefun-card-9x16.png",
+        "url": "https://make.fun/press/referral-card/9x16/makefun-card-9x16.png",
+        "title": "End card 9:16 on magenta, still",
+        "what": "The finished card on solid magenta.",
+        "use": "A last slide, a thumbnail or a story frame, with your code typed into the field.",
+        "group": "card-9x16",
+        "aspect": "9:16",
+        "mime": "image/png",
+        "width": 1080,
+        "height": 1920,
+        "fps": null,
+        "duration_s": null,
+        "alpha": false,
+        "bytes": 113675,
+        "sha256": "cf4ee48ff5d3e27fe7042c6d548cc707e8f050cb3d052f5b0c70ce1d897c9035"
+      }
+    },
+    "mascot": {
+      "local_file": "ghost-laptop-recording.png",
+      "manifest_entry": {
+        "path": "illustrations/ghost-laptop-recording.png",
+        "url": "https://make.fun/press/illustrations/ghost-laptop-recording.png",
+        "label": "Ghost at a laptop under a recording light",
+        "mime": "image/png",
+        "width": 741,
+        "height": 610,
+        "bytes": 79296,
+        "sha256": "4dc346f7277795fae92a0837c2eeeeee53cb84a70d5a24618012a9cbc8dac7cd"
+      }
+    }
+  }
+}
